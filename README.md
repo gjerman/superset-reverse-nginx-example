@@ -13,3 +13,12 @@ Still it was not crystal clear how to put all elements together. To save some ti
 
  * docker-compose up -d --build
  * docker-compose down -v
+
+# ToDo
+
+* Merge to single docker container based on amancevice/superset:0.34.0.
+* Add nginx
+* Change to filesystem cache or add redis
+
+
+* docker build 
